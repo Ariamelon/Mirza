@@ -45,10 +45,16 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.25
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -165,9 +171,19 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
-      "via_dimensions": [],
-      "zones_allow_external_fillets": false
+      "track_widths": [
+        0.0,
+        0.6,
+        1.0,
+        1.6
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
+      "zones_allow_external_fillets": true
     },
     "layer_presets": [],
     "viewports": []
@@ -409,7 +425,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.4,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
@@ -469,20 +485,8 @@
   },
   "sheets": [
     [
-      "b81e3499-d427-4525-b6d1-61999d7d8277",
+      "fe9fc43f-1188-4d03-8e81-9a6232eb6dc0",
       ""
-    ],
-    [
-      "1cf66be8-6799-46ae-9097-64a842a2bb9d",
-      "Amp L"
-    ],
-    [
-      "0e2ca036-bbbd-48c6-9fe1-41d84260981f",
-      "Amp R"
-    ],
-    [
-      "c0d0511a-4bf0-4fc0-b0fd-c387a2e61720",
-      "DC Protection"
     ]
   ],
   "text_variables": {}
