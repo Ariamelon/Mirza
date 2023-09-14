@@ -484,6 +484,7 @@
         )
       )
     )
+<<<<<<< HEAD
     (symbol "Device:Polyfuse_Small" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "F" (at -1.905 0 90)
         (effects (font (size 1.27 1.27)))
@@ -541,6 +542,8 @@
         )
       )
     )
+=======
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (symbol "Device:Q_NPN_BCE" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 5.08 1.27 0)
         (effects (font (size 1.27 1.27)) (justify left))
@@ -1323,7 +1326,11 @@
   (junction (at 307.34 175.26) (diameter 0) (color 0 0 0 0)
     (uuid 689806e3-47a2-4af8-9f87-a03347537f75)
   )
+<<<<<<< HEAD
   (junction (at 289.56 175.26) (diameter 0) (color 0 0 0 0)
+=======
+  (junction (at 294.64 175.26) (diameter 0) (color 0 0 0 0)
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (uuid 68c9d665-ddd0-4853-bdc3-8733e40d65e4)
   )
   (junction (at 48.26 142.24) (diameter 0) (color 0 0 0 0)
@@ -1497,6 +1504,13 @@
     (stroke (width 0) (type default))
     (uuid 00800e17-3caf-4e13-b384-ecc7e0c86737)
   )
+<<<<<<< HEAD
+=======
+  (wire (pts (xy 215.9 50.8) (xy 215.9 53.34))
+    (stroke (width 0) (type default))
+    (uuid 0091fcc5-d408-468b-beba-180dad9cbc27)
+  )
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
   (wire (pts (xy 124.46 162.56) (xy 124.46 167.64))
     (stroke (width 0) (type default))
     (uuid 012db5cd-0aa1-43d7-a0dc-9d0c31b18dcf)
@@ -1597,10 +1611,13 @@
     (stroke (width 0) (type default))
     (uuid 13e79cbd-900b-4c43-9be1-595b77e91455)
   )
+<<<<<<< HEAD
   (wire (pts (xy 297.18 185.42) (xy 292.1 185.42))
     (stroke (width 0) (type default))
     (uuid 15026785-74a3-4294-8e8c-71f575ce0262)
   )
+=======
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
   (wire (pts (xy 139.7 167.64) (xy 139.7 172.72))
     (stroke (width 0) (type default))
     (uuid 1731004d-18e5-4e6c-a0e9-aa9f2df3d347)
@@ -1701,7 +1718,11 @@
     (stroke (width 0) (type default))
     (uuid 26a1eeb9-405e-473c-97bf-92dfea8a351c)
   )
+<<<<<<< HEAD
   (wire (pts (xy 289.56 177.8) (xy 289.56 175.26))
+=======
+  (wire (pts (xy 294.64 177.8) (xy 294.64 175.26))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid 27b6c416-668d-4a04-ad87-ee5fb98298f9)
   )
@@ -1797,10 +1818,13 @@
     (stroke (width 0) (type default))
     (uuid 3a14350f-4fe6-4260-ad71-f0cd113988c0)
   )
+<<<<<<< HEAD
   (wire (pts (xy 302.26 165.1) (xy 307.34 165.1))
     (stroke (width 0) (type default))
     (uuid 3a2adc1a-ba9c-4b96-a519-4a4e000a9689)
   )
+=======
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
   (wire (pts (xy 314.96 86.36) (xy 317.5 86.36))
     (stroke (width 0) (type default))
     (uuid 3a8a762c-0012-4d19-8afc-60d2fa001ce8)
@@ -1909,7 +1933,11 @@
     (stroke (width 0) (type default))
     (uuid 50073c81-f9f6-4cca-b726-e4d8ed6185be)
   )
+<<<<<<< HEAD
   (wire (pts (xy 287.02 177.8) (xy 289.56 177.8))
+=======
+  (wire (pts (xy 292.1 177.8) (xy 294.64 177.8))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid 51707cc6-5a89-4fa5-8145-2f8c5fd53719)
   )
@@ -1945,7 +1973,11 @@
     (stroke (width 0) (type default))
     (uuid 5832fa7b-f0d2-4208-bf65-3db8635c5349)
   )
+<<<<<<< HEAD
   (wire (pts (xy 289.56 175.26) (xy 307.34 175.26))
+=======
+  (wire (pts (xy 294.64 175.26) (xy 307.34 175.26))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid 5a0c793e-9385-495d-a078-5315dd9bd5c8)
   )
@@ -2157,7 +2189,11 @@
     (stroke (width 0) (type default))
     (uuid 89fd9d34-0dbc-4761-9a79-64f5e692fe7f)
   )
+<<<<<<< HEAD
   (wire (pts (xy 292.1 185.42) (xy 292.1 180.34))
+=======
+  (wire (pts (xy 297.18 185.42) (xy 297.18 180.34))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid 8a21f57e-ef46-4b67-9864-2a13330501dc)
   )
@@ -2201,7 +2237,11 @@
     (stroke (width 0) (type default))
     (uuid 8f4976d1-106e-4d39-974e-1ed08de3669c)
   )
+<<<<<<< HEAD
   (wire (pts (xy 287.02 172.72) (xy 292.1 172.72))
+=======
+  (wire (pts (xy 292.1 172.72) (xy 297.18 172.72))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid 8f50d318-8693-437c-b5e8-599b5ea13463)
   )
@@ -2273,7 +2313,11 @@
     (stroke (width 0) (type default))
     (uuid a1aad8c4-85cc-4bfb-8667-d04b7c961ba6)
   )
+<<<<<<< HEAD
   (wire (pts (xy 292.1 172.72) (xy 292.1 165.1))
+=======
+  (wire (pts (xy 297.18 172.72) (xy 297.18 165.1))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid a3a2fb74-70f2-4807-99ee-afe04d54c5ad)
   )
@@ -2369,10 +2413,13 @@
     (stroke (width 0) (type default))
     (uuid b04ce757-eef5-4a90-8530-989decd9b7d3)
   )
+<<<<<<< HEAD
   (wire (pts (xy 215.9 50.8) (xy 215.9 53.34))
     (stroke (width 0) (type default))
     (uuid b0be0b55-9d8d-4fed-a0d0-196254e3e405)
   )
+=======
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
   (wire (pts (xy 124.46 53.34) (xy 139.7 53.34))
     (stroke (width 0) (type default))
     (uuid b179d204-571f-4a56-bfc5-b2e9819962b5)
@@ -2429,7 +2476,11 @@
     (stroke (width 0) (type default))
     (uuid b7c5738e-1848-4f0f-833f-e90398e5c59c)
   )
+<<<<<<< HEAD
   (wire (pts (xy 287.02 180.34) (xy 292.1 180.34))
+=======
+  (wire (pts (xy 292.1 180.34) (xy 297.18 180.34))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid b82394a1-bd73-4efa-bc85-e7f62060520c)
   )
@@ -2457,7 +2508,11 @@
     (stroke (width 0) (type default))
     (uuid bd271420-c8d2-4255-9c05-cba5b1154e2b)
   )
+<<<<<<< HEAD
   (wire (pts (xy 287.02 175.26) (xy 289.56 175.26))
+=======
+  (wire (pts (xy 292.1 175.26) (xy 294.64 175.26))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid bd3df843-1946-484a-ac36-de7a9e1290aa)
   )
@@ -2685,7 +2740,11 @@
     (stroke (width 0) (type default))
     (uuid e5cd00bb-74df-4f8a-8736-ed3bef7049c9)
   )
+<<<<<<< HEAD
   (wire (pts (xy 292.1 165.1) (xy 297.18 165.1))
+=======
+  (wire (pts (xy 297.18 165.1) (xy 307.34 165.1))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid e6634554-bcea-4c41-8e57-56795e1f0b5d)
   )
@@ -2737,7 +2796,11 @@
     (stroke (width 0) (type default))
     (uuid efcb25a5-e12e-447b-8e50-77d210108aa5)
   )
+<<<<<<< HEAD
   (wire (pts (xy 307.34 185.42) (xy 302.26 185.42))
+=======
+  (wire (pts (xy 307.34 185.42) (xy 297.18 185.42))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (stroke (width 0) (type default))
     (uuid f0563614-3836-4bcc-b5ae-751334c1a2d0)
   )
@@ -2886,6 +2949,7 @@
     )
   )
 
+<<<<<<< HEAD
   (symbol (lib_id "Device:Polyfuse_Small") (at 299.72 165.1 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00c62be9-8982-4163-aaca-faa99d4567a3)
@@ -2915,6 +2979,8 @@
     )
   )
 
+=======
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
   (symbol (lib_id "Device:R_Small") (at 53.34 152.4 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 030e8865-bdfb-4f0f-84f5-d73f99d5bd09)
@@ -2933,8 +2999,13 @@
     (property "Manufacturer No." "" (at 53.34 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 90e03a4c-09b9-42e2-af36-04368edddd81))
     (pin "2" (uuid 9273e4c2-5647-4400-b5a0-7de27cc11f98))
+=======
+    (pin "1" (uuid 772166c0-aa4b-4ce8-b21b-b6a1d758cc1a))
+    (pin "2" (uuid 36a2e5c8-63f6-4995-9fec-2f803421d98c))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -2970,8 +3041,13 @@
     (property "Manufacturer No." "" (at 73.66 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 10b7d9d0-5344-441e-ad5a-203ec279701d))
     (pin "2" (uuid 3721ca6f-4484-48b6-9e2f-ca05febfd322))
+=======
+    (pin "1" (uuid c15acb25-20ee-4421-8185-24efe060c121))
+    (pin "2" (uuid fa7f2665-ae4b-4b85-986b-15c5e0ad4a99))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3007,8 +3083,13 @@
     (property "Manufacturer No." "" (at 342.9 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 268a7d6e-106e-4804-a236-491d33e57ea7))
     (pin "2" (uuid 512fd44e-1031-4ed4-8cea-e3c9aa6373a9))
+=======
+    (pin "1" (uuid 2db7bd1d-acb8-4ee7-b12b-7cbcc28ac9aa))
+    (pin "2" (uuid d05d19ed-4ac6-496a-b60b-e568b2d92aa1))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3074,8 +3155,13 @@
     (property "Manufacturer No." "" (at 124.46 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 8a1f1504-7a9e-4d10-83eb-6a9d9c924358))
     (pin "2" (uuid 9ccccf01-9e8b-4dcb-8494-559705fb1ffb))
+=======
+    (pin "1" (uuid bb0d81db-e393-43df-8150-0fec426b271b))
+    (pin "2" (uuid 06aa596f-060a-40b1-ad30-3438af8cf290))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3111,8 +3197,13 @@
     (property "Manufacturer No." "" (at 185.42 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid ffcd42ed-8c21-4e11-b0f0-fcb6b1d05e6f))
     (pin "2" (uuid e748f70c-8f04-41b7-8209-6e232f29b279))
+=======
+    (pin "1" (uuid 3ef8151b-6617-49f8-935c-7929377fc4e2))
+    (pin "2" (uuid fb548b17-f539-4f97-a005-2d2cf45a9bba))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3131,7 +3222,11 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 350.52 193.04 0) (unit 1)
+<<<<<<< HEAD
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+=======
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (uuid 0b567a1c-ef87-4927-8570-5f5d7b5fa20e)
     (property "Reference" "H4" (at 353.06 191.8279 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3172,8 +3267,13 @@
     (property "Manufacturer No." "" (at 43.18 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid a60c67da-5f05-4927-8425-373aa24ead92))
     (pin "2" (uuid a3074183-9bd8-4285-8968-6b370d9210ac))
+=======
+    (pin "1" (uuid 30c71271-a8e1-4d49-9ae6-c6a4ce0172ee))
+    (pin "2" (uuid 0eba7785-c56f-49c6-82a9-b0229eb1503c))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3206,6 +3306,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 177.8 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 177.8 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3215,6 +3316,17 @@
     (pin "3" (uuid 073c0b00-0af2-4593-95a4-0b0baeb556d5))
     (pin "4" (uuid f524cdd6-47ca-4a46-9d10-0b659b81b19e))
     (pin "5" (uuid 1c13f0e8-887a-48b3-ba89-f45a0b66dc2e))
+=======
+    (property "Manufacturer No." "" (at 177.8 86.36 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4f6b6e84-ec26-462a-9ddd-c0f8be7159ec))
+    (pin "2" (uuid 066adec8-3c81-439a-8916-8d0bb42ff617))
+    (pin "6" (uuid 9fad29f8-4603-4657-8fd7-e0a1161396b0))
+    (pin "3" (uuid c4e6d4d7-9926-4290-9f71-00b9df409ee3))
+    (pin "4" (uuid 0bf94d39-19e2-4d50-864f-938ab2d2613d))
+    (pin "5" (uuid 87b9676e-b220-4319-8894-b176d79dd3f1))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3247,11 +3359,16 @@
     (property "Datasheet" "~" (at 119.38 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "08052U101FAT2A" (at 119.38 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 03d90c9c-6995-4993-8cbb-921b78acc57e))
     (pin "2" (uuid 6f9a5375-365a-4ab7-8266-9efb4e96f231))
+=======
+    (pin "1" (uuid 13978053-a3e0-40d9-94a1-aedff38415b2))
+    (pin "2" (uuid 877181cd-fe42-47eb-9ce2-e48aafffce30))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -3281,6 +3398,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 147.32 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 147.32 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3290,6 +3408,17 @@
     (pin "3" (uuid 3b8d3d00-09d0-4534-a822-2d4e1f495cb5))
     (pin "4" (uuid a722709d-5d9b-4218-9c68-5a0106bd3c4e))
     (pin "5" (uuid a8de042f-62e9-4d05-8e0e-8f00223a3004))
+=======
+    (property "Manufacturer No." "" (at 147.32 55.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 02b12dcf-f32e-4b2d-899e-48fc571d0b9d))
+    (pin "2" (uuid fffdce61-9a10-4f10-8236-78e999c8b867))
+    (pin "6" (uuid 5f201087-539b-40a8-b256-028659618872))
+    (pin "3" (uuid 9a916400-d488-463a-a3c2-5338ae2eb582))
+    (pin "4" (uuid 78e571b4-8e61-4118-ab1a-dec8f382b8e3))
+    (pin "5" (uuid 4098b951-ab04-4d9e-904c-b85f0da788f2))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3325,8 +3454,13 @@
     (property "Manufacturer No." "" (at 322.58 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid dbc68a0d-3665-4cad-94fa-f3a66ddf4cab))
     (pin "2" (uuid 85197363-1382-4f71-9fa7-ad6084580e20))
+=======
+    (pin "1" (uuid 0007ef3a-022b-4fd7-8182-29f16f6d3681))
+    (pin "2" (uuid a36e1ec3-0ab2-4597-8482-a533b11a4336))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3359,9 +3493,15 @@
     (property "Datasheet" "~" (at 213.36 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid ef91fd49-c370-4cc8-8d23-a4c32c727109))
     (pin "2" (uuid 5f0156e6-e4f0-4ed9-a65d-2773a593dfad))
     (pin "3" (uuid 11568198-e548-498b-909f-524d3c228309))
+=======
+    (pin "1" (uuid 81a134cd-b714-456e-8f01-38a909a6ce4f))
+    (pin "2" (uuid d5d1db43-2f4f-47c5-9d55-ed12768b870b))
+    (pin "3" (uuid 07d5ad92-eef0-4be7-9ee4-8f33435259ca))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -3391,12 +3531,18 @@
     (property "Datasheet" "~" (at 137.16 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SC3324-BL" (at 137.16 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0e1b3de3-32d4-495a-abfc-d1f0f8a29171))
     (pin "2" (uuid 6642a744-5347-4442-9e74-634b03c4515c))
     (pin "3" (uuid 8da879ca-bdaf-4c93-aa98-004383a188de))
+=======
+    (pin "1" (uuid 61f72b52-3e14-476e-bf4b-94d48e615bfb))
+    (pin "2" (uuid 4415d76d-52c1-4146-877c-ea44e483e5ef))
+    (pin "3" (uuid 1413b258-2067-4a5b-99eb-8b42dc1c68fb))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -3426,6 +3572,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 66.04 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 66.04 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3435,6 +3582,17 @@
     (pin "3" (uuid b4feee63-3781-4aa5-9f47-96356b7b9f4f))
     (pin "4" (uuid 301bd32d-c880-4c6c-b603-3b6f4a0a6322))
     (pin "5" (uuid 5dee8633-36f8-4754-a692-cb742c092bf0))
+=======
+    (property "Manufacturer No." "" (at 66.04 63.5 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0209b746-c73c-4979-9e34-2e2fc6ae89b4))
+    (pin "2" (uuid 2b50d887-b48d-49ec-aaae-41d15bd7347b))
+    (pin "6" (uuid a0bd6d31-711e-4976-a237-ec3248af360d))
+    (pin "3" (uuid 80533c08-34d3-48ce-bcb8-a6ab47624a01))
+    (pin "4" (uuid 37dcf338-3103-4c58-acfb-b6781dee1e77))
+    (pin "5" (uuid a34ce74f-1d85-4afe-8cdf-50e795a81011))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3492,6 +3650,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 96.52 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 96.52 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3501,6 +3660,14 @@
     (pin "3" (uuid 49ce4358-2e2e-49c0-aa42-6bdab74f75be))
     (pin "4" (uuid d2850071-696d-40fb-a686-bafe3badfc08))
     (pin "5" (uuid c7984b7d-4f08-4d42-a17f-c3d03eed08ec))
+=======
+    (pin "1" (uuid 2fd37bc4-51ee-4791-98fa-12fe0afb2fd5))
+    (pin "2" (uuid 0050ccba-9efa-438c-b5fd-39d18d70865a))
+    (pin "6" (uuid 83de1a14-5fef-4383-b904-d34efb326677))
+    (pin "3" (uuid b115e404-6f9d-4632-981a-a4b3de9e8a65))
+    (pin "4" (uuid 3356fff7-8b32-416b-9439-8eecbd3d3e22))
+    (pin "5" (uuid b3339db1-c0c4-48de-a73b-666196d2d530))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3533,6 +3700,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 182.88 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 182.88 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3542,6 +3710,17 @@
     (pin "3" (uuid 44184907-b6a3-49fc-a269-13ced2f90fc1))
     (pin "4" (uuid 67b3ed49-ac59-4590-a7a0-fd1a709ff639))
     (pin "5" (uuid 2459774d-38e0-4a59-aee4-8f970a0c3a25))
+=======
+    (property "Manufacturer No." "" (at 182.88 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2453970e-5059-49b7-8c32-ae2d81c44232))
+    (pin "2" (uuid a803e0e7-2b1d-47d4-8466-173f20fb9509))
+    (pin "6" (uuid d7e43006-1838-4d1e-a3bb-a53cd0534d42))
+    (pin "3" (uuid b7c2fac8-0d76-4ee4-a034-56144b5e7f37))
+    (pin "4" (uuid b8766f48-6a5a-4be0-abc8-9e410b224599))
+    (pin "5" (uuid b73539ba-38ce-429a-946c-49bc64a4d403))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3574,12 +3753,18 @@
     (property "Datasheet" "~" (at 137.16 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SC3324-BL" (at 137.16 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c59f73c9-4191-4092-9521-2df76a645227))
     (pin "2" (uuid 4f7c318e-0e68-4980-ad92-38787414d692))
     (pin "3" (uuid 736c9c25-c251-4072-926a-776716601057))
+=======
+    (pin "1" (uuid 86a23e17-1e22-4674-bb26-4fe2c2fbfed7))
+    (pin "2" (uuid 191e7589-b76e-4433-acbb-99e60198386e))
+    (pin "3" (uuid 51ccac03-196c-4b52-897f-b9c182480c20))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -3609,9 +3794,15 @@
     (property "Datasheet" "~" (at 185.42 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 1bb29ea3-601d-410d-9222-72b979850e42))
     (pin "2" (uuid decda47c-14b1-44d2-a458-b9f43429bf41))
     (pin "3" (uuid 061191f4-631a-4397-a3dc-7c5be7dfc2d7))
+=======
+    (pin "1" (uuid b58d4804-dcf0-47ff-bdd1-22aa8453b556))
+    (pin "2" (uuid f9199597-e32d-461d-bfc7-19f3ecfa6002))
+    (pin "3" (uuid 09fc97ba-7e99-454c-abde-d484f7065f03))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -3641,11 +3832,19 @@
     (property "Datasheet" "~" (at 48.26 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "08052U101FAT2A" (at 48.26 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b3a882c6-7483-4909-bb2e-12a3ff51a6d5))
     (pin "2" (uuid ce9557f3-2383-46ec-a2fc-f6fa4749526e))
+=======
+    (property "Manufacturer No." "" (at 48.26 147.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 95475af9-7779-4a76-811c-b22adb696cd1))
+    (pin "2" (uuid 5ecfad09-131a-4d97-ab75-a20898006158))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3741,8 +3940,13 @@
     (property "Manufacturer No." "" (at 200.66 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 854b6693-6046-4e6e-9523-5dd2f77d6f6b))
     (pin "2" (uuid ec8a2a78-f393-4c4b-8bd2-a4593a098bca))
+=======
+    (pin "1" (uuid e328b595-5462-4dfc-babb-3671979d8fd0))
+    (pin "2" (uuid 37dbb22a-43fc-44ab-a76a-c04265eba0a5))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3775,6 +3979,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 154.94 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 154.94 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3784,6 +3989,17 @@
     (pin "3" (uuid 8057dc67-99b8-4f5d-986f-3f5b62e06d39))
     (pin "4" (uuid a20cce0f-1230-43ee-a1e4-b673d12a398d))
     (pin "5" (uuid af725aff-004a-4efd-a021-a0babebdb218))
+=======
+    (property "Manufacturer No." "" (at 154.94 218.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7d55eae6-53c0-4451-95cf-c8c351108043))
+    (pin "2" (uuid 9203f4db-2bcd-4f38-ad68-42669822f7f7))
+    (pin "6" (uuid 5ace534b-f0e1-4a75-b86d-60a51f2a3c83))
+    (pin "3" (uuid 5d269517-0af9-4bb6-bed2-d9a60e2b215e))
+    (pin "4" (uuid 4053d9ea-f56f-4e6c-91c8-3044a472d25e))
+    (pin "5" (uuid 0a06d8c2-0c5e-4bf7-b956-49eeebab53c7))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3819,8 +4035,13 @@
     (property "Manufacturer No." "" (at 327.66 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 98540721-89be-41fa-b834-2b0379c8418e))
     (pin "2" (uuid ae49d7c9-3741-49c6-8786-126d2e1e3eb7))
+=======
+    (pin "1" (uuid 939c336c-4843-4c5f-b646-4bb1e410fc0c))
+    (pin "2" (uuid 7891cfa4-afaa-49b1-9794-fbb186bc5683))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3856,8 +4077,13 @@
     (property "Manufacturer No." "" (at 312.42 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid a9b1c67e-08ed-4839-a8d6-e477b1e81b68))
     (pin "2" (uuid 7fbd615e-26ac-4ad2-bead-a7456729b117))
+=======
+    (pin "1" (uuid 969b4108-0902-4b5b-80d4-be5abdb2e77d))
+    (pin "2" (uuid b844b4f7-57e8-4caa-8c18-10147c3938f8))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3915,6 +4141,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 121.92 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 121.92 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3924,6 +4151,17 @@
     (pin "3" (uuid 663b59d3-b2f4-4a46-862f-affb6692a86d))
     (pin "4" (uuid d962b219-e37e-4660-94e2-e82cf55ae3e9))
     (pin "5" (uuid 87558c5e-4de4-4c69-94a2-dfc001f16c70))
+=======
+    (property "Manufacturer No." "" (at 121.92 83.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7d55eae6-53c0-4451-95cf-c8c351108044))
+    (pin "2" (uuid 9203f4db-2bcd-4f38-ad68-42669822f7f8))
+    (pin "6" (uuid 5ace534b-f0e1-4a75-b86d-60a51f2a3c84))
+    (pin "3" (uuid 675af993-91dc-401d-bfaf-febbf5a92d37))
+    (pin "4" (uuid 3565f0a1-548a-447f-92c5-770108cc6c74))
+    (pin "5" (uuid f0b252ca-8416-45b3-9d04-ee3b8aec92e6))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3959,8 +4197,13 @@
     (property "Manufacturer No." "" (at 124.46 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 9923cb25-aae0-4ea1-9104-4ec0c1865fb1))
     (pin "2" (uuid 5c4e3031-e2f0-46ad-bbd0-5029df350f41))
+=======
+    (pin "1" (uuid c4dc0bfe-b76b-41b5-87e8-d622cb108c33))
+    (pin "2" (uuid 8b54d8bd-aabd-4a1b-9180-6636f104d1bb))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -3996,8 +4239,13 @@
     (property "Manufacturer No." "" (at 114.3 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 4c722537-fb00-4b53-90fb-c4e2270100ba))
     (pin "2" (uuid d2bfd825-8767-4e66-bae2-75be1ba474f9))
+=======
+    (pin "1" (uuid b2c39c89-3e01-4d70-aae6-c17b1436d456))
+    (pin "2" (uuid 17d4f06c-334d-4d89-ad58-d8e8ee186b5c))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4030,11 +4278,16 @@
     (property "Datasheet" "~" (at 139.7 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "EEU-FR1E680" (at 139.7 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid efb044b8-1870-4520-b61d-d150cc0d9b18))
     (pin "2" (uuid b42e127c-37a8-4725-a408-8a42ce650df9))
+=======
+    (pin "1" (uuid 754ce131-bfaa-46cc-8626-ec7dd8b36472))
+    (pin "2" (uuid 687669e8-90c5-4583-a989-ca3b4cf924e8))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4064,11 +4317,16 @@
     (property "Datasheet" "~" (at 307.34 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "EEU-FR1E151" (at 307.34 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e3518afd-9616-4047-ab1a-6942cded4f2f))
     (pin "2" (uuid ab28aa16-e688-4b2d-8c4e-04e2e0e1d877))
+=======
+    (pin "1" (uuid 7e20242e-987f-45a8-9b27-0229f8733899))
+    (pin "2" (uuid 78011f94-f197-4a4b-ba69-15eb372e0947))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4101,8 +4359,13 @@
     (property "Manufacturer No." "" (at 185.42 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid e0e87032-91f8-46dd-8b67-c51353255953))
     (pin "2" (uuid 8756ce6b-eda2-4810-bf0a-fded2f17733c))
+=======
+    (pin "1" (uuid c50b787a-285c-4363-a190-1831d226bd1c))
+    (pin "2" (uuid 8a0fdeb9-b3e5-49d3-8443-a3bc4418b460))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4135,11 +4398,22 @@
     (property "Datasheet" "~" (at 231.14 137.16 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "MMSD4148T3G" (at 231.14 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8e0990ad-3885-4f3e-aacd-27b700495da5))
     (pin "2" (uuid a1da9342-b44f-4ed0-809c-2c6d689d7e78))
+=======
+    (property "Sim.Device" "D" (at 231.14 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 231.14 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b5df38b2-7321-4abd-b024-73a65066d0a1))
+    (pin "2" (uuid 5d1be530-c698-4678-857a-b50b32f6a1a6))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4169,12 +4443,18 @@
     (property "Datasheet" "~" (at 182.88 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SC3324-BL" (at 182.88 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ed04b539-5927-4ec9-87b6-8ed66ac1847c))
     (pin "2" (uuid feadf5e0-795f-4666-8933-dc1c34b13ba6))
     (pin "3" (uuid 29dd939d-1fe2-4a3d-8ccd-5ee32d1b05d9))
+=======
+    (pin "1" (uuid fe6bc381-84c4-4017-b9f7-edeffcf15064))
+    (pin "2" (uuid b20ed600-1506-4edf-bb73-195f0f69eb9c))
+    (pin "3" (uuid c5beef3b-b128-4c09-a49f-5430ad1b0b5c))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4204,6 +4484,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 182.88 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 182.88 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4213,6 +4494,17 @@
     (pin "3" (uuid ad038af0-ff9f-4cc0-b702-70f2de027f87))
     (pin "4" (uuid fd82b2c0-d573-44dd-b9a8-7cded82058cd))
     (pin "5" (uuid 565b60ea-a12e-4e00-b882-85d38e9d1f63))
+=======
+    (property "Manufacturer No." "" (at 182.88 96.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7ad3b131-8718-483d-929c-d32c38f45e52))
+    (pin "2" (uuid 71822ab3-6047-4046-9d83-cbd4ed0127a6))
+    (pin "6" (uuid 20316dc8-f6af-4afb-9a18-8937ce62d5f2))
+    (pin "3" (uuid dcca05f1-b12c-40eb-a9ac-900c9481f5f3))
+    (pin "4" (uuid e29db101-ac22-4fd2-bc31-a20b96ae3f56))
+    (pin "5" (uuid e405152e-a16a-4d9c-85a0-d6ea7cb9ed27))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4248,8 +4540,13 @@
     (property "Manufacturer No." "" (at 53.34 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 9345f487-546d-4cb2-b6ec-d553f974ce8f))
     (pin "2" (uuid 7f569f37-bb4e-48db-a95f-938fdb1aadc0))
+=======
+    (pin "1" (uuid 0b5415e1-e99b-4923-8058-fa102d65348e))
+    (pin "2" (uuid 63c37fc9-732e-4680-97cf-bef9c6b1d812))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4293,7 +4590,11 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 350.52 198.12 0) (unit 1)
+<<<<<<< HEAD
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+=======
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (uuid 3b9e1c92-7de9-46e7-a081-66615521147c)
     (property "Reference" "H5" (at 353.06 196.9079 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4334,8 +4635,13 @@
     (property "Manufacturer No." "" (at 200.66 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 47d8bd9b-0480-4c5b-a493-e138f12b9054))
     (pin "2" (uuid cb9839bd-6748-4276-9589-dbc26469567d))
+=======
+    (pin "1" (uuid 0ff201bf-6380-4a90-b39e-0457a4875b57))
+    (pin "2" (uuid 6d4b18ef-44f4-4f5e-b276-498317b5e555))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4368,9 +4674,15 @@
     (property "Datasheet" "~" (at 213.36 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 2da00200-ea54-4026-8f36-f4d924803c45))
     (pin "2" (uuid 40bd73df-0ac3-4fd5-aa7f-e33f9d3331ca))
     (pin "3" (uuid d189fa65-2695-45c1-b56c-983438a6fb7c))
+=======
+    (pin "1" (uuid 587bd50b-38f3-4284-b52d-e12281682ba4))
+    (pin "2" (uuid 012f3478-d871-443a-a66d-fb0e73217006))
+    (pin "3" (uuid b1f9904b-4655-4a51-8156-d723fa36cb4f))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4433,8 +4745,13 @@
     (property "Manufacturer No." "" (at 215.9 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 3c368c76-3566-4ef7-a83e-5d3fe75e143a))
     (pin "2" (uuid 61a3897e-0335-4e3a-9516-d29cb8da3c99))
+=======
+    (pin "1" (uuid 799e9acb-3051-4be6-98bf-7fbaa4f25e25))
+    (pin "2" (uuid 7fbdf258-ccf2-4c38-ab87-6e69aacd42bf))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4470,8 +4787,13 @@
     (property "Manufacturer No." "" (at 124.46 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid e98a5ccc-c5ce-4a84-9b53-87c1bf377a0a))
     (pin "2" (uuid 66addb88-f41b-486e-a9fc-eacaaef8d489))
+=======
+    (pin "1" (uuid e26471c8-0b73-455a-be48-c8e5e864801c))
+    (pin "2" (uuid a5814515-c217-4fa9-9aa4-56ceccd3960e))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4490,7 +4812,11 @@
   )
 
   (symbol (lib_id "Ariamelon-Misc:MountingHole_Pad") (at 350.52 175.26 270) (unit 1)
+<<<<<<< HEAD
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+=======
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (uuid 468a330f-235c-4f02-9575-15e436b937e1)
     (property "Reference" "H1" (at 353.06 174.0479 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4504,7 +4830,11 @@
     (property "Datasheet" "~" (at 349.25 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid deb6eb73-1c1c-4c0e-98ea-82d124735a61))
+=======
+    (pin "1" (uuid 6e86e01d-ea30-4188-99bf-c21caa72da54))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4534,12 +4864,18 @@
     (property "Datasheet" "~" (at 71.12 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SA1312-BL" (at 71.12 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d6b2cd6c-c947-42b9-8c5f-3233c051e314))
     (pin "2" (uuid e9a34c86-fd64-468d-9e40-68280da009f7))
     (pin "3" (uuid d99036bd-b1b3-4d0a-ae15-2a70f151c86a))
+=======
+    (pin "1" (uuid 124be54f-62de-4415-acd5-37344b6d7ce2))
+    (pin "2" (uuid d5049118-b2ff-452d-bb43-b41c090f2921))
+    (pin "3" (uuid 1ae53a63-28de-4f62-a157-ddee245e530d))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4584,6 +4920,7 @@
     )
   )
 
+<<<<<<< HEAD
   (symbol (lib_id "Device:Polyfuse_Small") (at 299.72 185.42 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 49c92aa1-6363-412d-94b4-94b9c5563ea6)
@@ -4613,6 +4950,8 @@
     )
   )
 
+=======
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
   (symbol (lib_id "Device:R_Small") (at 73.66 106.68 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4a571852-e2e2-45c5-b26c-daa7c63a4afc)
@@ -4631,8 +4970,13 @@
     (property "Manufacturer No." "" (at 73.66 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 80e263e9-69ee-420a-8bc1-04db0381d351))
     (pin "2" (uuid 2c815c35-6c55-4878-bc6e-0c2263f8d2e3))
+=======
+    (pin "1" (uuid b764192e-3aa8-464b-9ca9-f5d420e6056a))
+    (pin "2" (uuid 3fd8536e-8029-4ba5-be8f-f316c0e55593))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4665,12 +5009,18 @@
     (property "Datasheet" "~" (at 137.16 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SA1312-BL" (at 137.16 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a8a0daad-0b7a-4fd3-98ab-f33a6138138b))
     (pin "2" (uuid 3ca273f1-09bf-49af-b0f1-8b5bb390d76e))
     (pin "3" (uuid 93266aba-0622-4d63-8e3e-bde97813e587))
+=======
+    (pin "1" (uuid ef1743f1-2a36-46c2-87bd-efb82d061b54))
+    (pin "2" (uuid fcfc0fcc-93da-4e0b-9606-c4d8f4f08851))
+    (pin "3" (uuid a1e5bb32-91ca-45a2-9176-52e2aeb2f957))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4700,11 +5050,16 @@
     (property "Datasheet" "~" (at 193.04 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "08052U101FAT2A" (at 193.04 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4e5d998c-2e21-4541-bd2b-678aace286c8))
     (pin "2" (uuid 4fa8ff17-f669-4ddf-966e-1eb0d01b654d))
+=======
+    (pin "1" (uuid f429ba32-4624-46a6-afad-8779f4abbe60))
+    (pin "2" (uuid d3ebbde7-9091-460d-903a-f393973b364b))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4734,8 +5089,13 @@
     (property "Datasheet" "~" (at 30.48 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid b5504e2c-f9ad-455f-bb42-66ec5095f1d4))
     (pin "2" (uuid a987707b-ef16-4559-adcd-e6754a7ee199))
+=======
+    (pin "1" (uuid 4abcba8a-4365-4c4c-a419-cc49e89e5f6c))
+    (pin "2" (uuid b9ee979f-b333-4d54-98f8-7db05322c2b3))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/fe9fc43f-1188-4d03-8e81-9a6232eb6dc0"
@@ -4818,8 +5178,13 @@
     (property "Manufacturer No." "" (at 160.02 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 43f64b8d-346c-488d-b843-3521abae0d49))
     (pin "2" (uuid 18622570-aa48-4083-995b-18cd4a907984))
+=======
+    (pin "1" (uuid 385f3d6c-86fe-40ce-abc2-db35abcbdc5d))
+    (pin "2" (uuid 223f8576-e618-4ec8-aec0-38767f2c2c44))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4852,11 +5217,16 @@
     (property "Datasheet" "~" (at 246.38 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "08052U101FAT2A" (at 246.38 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8aabb707-aec7-4457-87b0-695863d96cdd))
     (pin "2" (uuid 2d3bc5f4-6fb3-4a5d-8f27-8dad6c404547))
+=======
+    (pin "1" (uuid e2cc29f3-b591-44f7-b342-5ecaa94059a3))
+    (pin "2" (uuid a791a186-eeee-4d84-b950-13811e09b6a0))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -4889,8 +5259,13 @@
     (property "Manufacturer No." "" (at 160.02 210.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid f7f20061-0f4a-4578-a16b-2ea5da63992b))
     (pin "2" (uuid 5c6703cd-67ae-46b7-b202-c93796607c59))
+=======
+    (pin "1" (uuid d772df63-b1ba-4ed5-a4d8-25bb86e6558f))
+    (pin "2" (uuid c447f8e2-c816-42de-b34c-73b796390a8d))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4926,8 +5301,13 @@
     (property "Manufacturer No." "" (at 124.46 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 7c527177-8af0-4f8d-ab51-6c0d4e95c16f))
     (pin "2" (uuid 12ff2967-aa9d-45c7-8311-2ecb3f644325))
+=======
+    (pin "1" (uuid 9203bdf6-3006-4376-a319-48d81464715d))
+    (pin "2" (uuid 52394e48-1bce-4942-94aa-03a79f526e13))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -4960,6 +5340,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 177.8 198.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 177.8 198.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4969,6 +5350,17 @@
     (pin "3" (uuid 2a6b0735-8018-4fd5-b27e-303400cb4229))
     (pin "4" (uuid 75c0be74-c59e-40e2-930f-753718e9288a))
     (pin "5" (uuid 182d7890-8cce-46bc-9487-43f7d1a01a2e))
+=======
+    (property "Manufacturer No." "" (at 177.8 198.12 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3d42f00b-bcce-4d6d-bb9d-314f3e1bbec0))
+    (pin "2" (uuid 338091b4-82e6-4a7f-8629-a85be49df17e))
+    (pin "6" (uuid af5ab571-dc0b-4cc4-a63d-da3b1622307d))
+    (pin "3" (uuid 9a916400-d488-463a-a3c2-5338ae2eb583))
+    (pin "4" (uuid 78e571b4-8e61-4118-ab1a-dec8f382b8e4))
+    (pin "5" (uuid 4098b951-ab04-4d9e-904c-b85f0da788f3))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5001,11 +5393,16 @@
     (property "Datasheet" "~" (at 139.7 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "EEU-FR1E680" (at 139.7 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 9367f371-076d-4f08-ab67-bff505f62bc7))
     (pin "2" (uuid 83d855c8-9c83-40d5-ba23-70670795b45e))
+=======
+    (pin "1" (uuid bfda303e-e87b-43f2-a4b1-9d3d4a4b959b))
+    (pin "2" (uuid 2dab284a-90a6-4642-9a2f-1b602a082e72))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5038,8 +5435,13 @@
     (property "Manufacturer No." "" (at 175.26 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 9bc68dd3-4b9a-498f-bfa7-f171219144ba))
     (pin "2" (uuid b20b3572-df2c-46f7-87fc-feb55baf6062))
+=======
+    (pin "1" (uuid 9ffff4cd-2ccd-4168-a3b7-ce411b8642ae))
+    (pin "2" (uuid 17a1e199-ac8b-4a0c-a897-7d3f74f88232))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5075,8 +5477,13 @@
     (property "Manufacturer No." "" (at 93.98 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 2000d7a9-162f-4501-a30b-caa445b3d46c))
     (pin "2" (uuid c6e8eac9-5896-4ce9-97f6-b5ad0924f968))
+=======
+    (pin "1" (uuid c618320d-1a35-4b8b-b434-330e74a39ccc))
+    (pin "2" (uuid 0296a59e-b628-44c6-b157-00959e9f21d2))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5109,11 +5516,16 @@
     (property "Datasheet" "~" (at 327.66 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "GRT21BR71H104KE01L" (at 327.66 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1ce6d43c-ca0a-4075-a896-878e05a40e0e))
     (pin "2" (uuid 2d28a855-dd97-4dc1-a0f0-a963a4b5dd96))
+=======
+    (pin "1" (uuid f19dfc44-59f1-4690-9475-45e72a2df4df))
+    (pin "2" (uuid be01f588-6a7f-4e9e-b770-176a7285b952))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5143,12 +5555,18 @@
     (property "Datasheet" "~" (at 91.44 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SA1312-BL" (at 91.44 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bbeab9c9-13c6-4f05-a336-81252d97794c))
     (pin "2" (uuid a467ed7d-34f6-42c8-943f-e2e16ae279a1))
     (pin "3" (uuid 1aecc7f9-bcd0-4d99-8145-87b5bc2e52f3))
+=======
+    (pin "1" (uuid b6b130b8-afde-49fb-a938-b08a924f0a79))
+    (pin "2" (uuid 885c86ca-e728-4eb2-b93e-8057f9c1412c))
+    (pin "3" (uuid 81d3b635-08c4-416a-8a63-7a224e4c8e0a))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5178,11 +5596,16 @@
     (property "Datasheet" "~" (at 193.04 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "08052U101FAT2A" (at 193.04 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 207316cc-0fef-484c-be3c-9aac23bea3b4))
     (pin "2" (uuid 0b8088a7-3108-4094-97fe-cd152194cab0))
+=======
+    (pin "1" (uuid bc3a0e0e-7c52-429c-8301-503466b58ea5))
+    (pin "2" (uuid 6a014615-00e1-46a6-9e7d-c7e3e2b204e1))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5215,8 +5638,13 @@
     (property "Manufacturer No." "" (at 73.66 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 67a5ca49-6afd-4445-9ef5-5ae6344e4825))
     (pin "2" (uuid ddd21d95-e465-46ca-8d8b-ba25601cddec))
+=======
+    (pin "1" (uuid 34acc40d-1568-42e9-abe4-d0a4da3e848d))
+    (pin "2" (uuid a10fe1a4-9cb7-4426-86e0-9da552e41c7c))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5279,6 +5707,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 147.32 228.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 147.32 228.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5288,6 +5717,17 @@
     (pin "3" (uuid bd9184a7-742f-4e3d-a978-427dc93a7144))
     (pin "4" (uuid c3614526-094a-43b8-86f9-66f9e1eaff5a))
     (pin "5" (uuid 10a5441a-c4f9-4ceb-83a7-4e5037138c93))
+=======
+    (property "Manufacturer No." "" (at 147.32 228.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 32595dab-ab30-43a2-87e6-797156d88bd0))
+    (pin "2" (uuid c240fbaf-9fb9-4141-a8c9-ad7df92941d9))
+    (pin "6" (uuid 30441dc4-bbfd-4d87-9536-497e78ff62c6))
+    (pin "3" (uuid 29747a81-7889-46b6-8426-23f72bfe9f08))
+    (pin "4" (uuid b98e0070-95db-4967-9641-3193458f95a3))
+    (pin "5" (uuid dce6ef2d-439b-4786-8639-76408807c27e))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5320,9 +5760,15 @@
     (property "Datasheet" "~" (at 185.42 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid e21b032b-435d-4cae-95e6-1280a4c7617a))
     (pin "2" (uuid aeb166ea-6317-4137-94f6-e48966b2642d))
     (pin "3" (uuid 9b2a7e5e-6d9f-4f64-8e15-33bf8a658b49))
+=======
+    (pin "1" (uuid b727ac4b-9441-431a-a503-8392889626d2))
+    (pin "2" (uuid ada2b2ef-50f5-4860-9af0-8204b6be7ef9))
+    (pin "3" (uuid 4841f630-5227-4743-bde3-3202e6c6a6c9))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5355,8 +5801,13 @@
     (property "Manufacturer No." "" (at 185.42 203.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 43275daf-c5c1-4e94-afa3-e7bedbcdee4b))
     (pin "2" (uuid e56f4aa8-9edc-404c-8848-22456e00de7c))
+=======
+    (pin "1" (uuid 81b0f03a-a3f0-49ce-bce7-1e8d4a0c4c28))
+    (pin "2" (uuid b3a9eadd-eb55-4ce3-937d-4ebadcc26156))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5389,6 +5840,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 96.52 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 96.52 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5398,6 +5850,17 @@
     (pin "3" (uuid 1b1a1230-fe37-449c-90d4-0b98775b7465))
     (pin "4" (uuid ccd8cf73-96c8-465c-9adf-c9a20e80d622))
     (pin "5" (uuid 67b1d269-993b-4589-86fd-aaa0e8b062ea))
+=======
+    (property "Manufacturer No." "" (at 96.52 200.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e311ba6e-53f1-45bd-9362-86f6e218206d))
+    (pin "2" (uuid 657f7274-cf70-4a07-8ecf-bd558a5fb193))
+    (pin "6" (uuid a919af7d-23bb-4a7d-8ffe-708724baf278))
+    (pin "3" (uuid 73d45ff3-6c12-4ba9-9e83-76418d3d3010))
+    (pin "4" (uuid 08401955-4134-4b81-99a6-5b2af42f6932))
+    (pin "5" (uuid 7bc2516e-5526-47c7-8455-72ce5d748cee))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5430,6 +5893,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 121.92 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 121.92 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5439,6 +5903,17 @@
     (pin "3" (uuid 2156741d-2039-456b-8c9b-f0c90f15b1a8))
     (pin "4" (uuid 71c4a59d-e56e-4d4c-827a-26ea33e79632))
     (pin "5" (uuid ba09b0ce-f660-4527-93b9-46594729db5c))
+=======
+    (property "Manufacturer No." "" (at 121.92 200.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 89924040-9516-4c9b-9c03-cc3f1ba258d9))
+    (pin "2" (uuid 62950f75-9901-4993-91f5-c9b589e7a524))
+    (pin "6" (uuid ee7ed6d3-17d8-48e9-b84b-a8186ea56493))
+    (pin "3" (uuid 748ea6ae-d8f6-4254-9baf-f1a02fed5446))
+    (pin "4" (uuid b2594f12-3749-42af-970b-a7702e2d3241))
+    (pin "5" (uuid 6189a72b-b538-4f61-8782-6c78da13b1f3))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5471,12 +5946,18 @@
     (property "Datasheet" "~" (at 91.44 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SC3324-BL" (at 91.44 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1eadba97-9d2e-4723-928e-33042c477c99))
     (pin "2" (uuid 91d601e3-6047-4626-9c53-88bd41e8ee51))
     (pin "3" (uuid ce443141-aed8-4220-8db4-26db1b598c68))
+=======
+    (pin "1" (uuid e4aa6376-9b72-4cf3-8313-7a059fe1b001))
+    (pin "2" (uuid 27d3385b-c770-4353-94eb-ac7ae7162017))
+    (pin "3" (uuid 16a5f94e-07cb-4531-bb12-c1f0bb66190c))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5506,11 +5987,16 @@
     (property "Datasheet" "~" (at 160.02 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "08052U470FAT2A" (at 160.02 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b03af096-500b-44a5-86a5-237728bef8b2))
     (pin "2" (uuid 472688c6-f470-402e-adf5-c5c3b9e55b0f))
+=======
+    (pin "1" (uuid 83b34314-296c-4a3f-a3dc-d1adde6a382d))
+    (pin "2" (uuid d4f11f30-40ef-4c1d-a17b-c778505bc8a0))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5540,11 +6026,16 @@
     (property "Datasheet" "~" (at 327.66 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "GRT21BR71H104KE01L" (at 327.66 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4bf0a55c-f721-4fea-bf49-c70276200ba7))
     (pin "2" (uuid 69369963-0d65-4624-a276-a3b4ae69b99e))
+=======
+    (pin "1" (uuid eb72486b-d7c6-4a00-824e-7ba57c45e37e))
+    (pin "2" (uuid a0fab80e-db19-4345-8461-a9d6d135184b))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5574,6 +6065,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 121.92 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 121.92 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5583,6 +6075,14 @@
     (pin "3" (uuid 75feaaea-f958-4ef2-9622-a0baa078252e))
     (pin "4" (uuid 972fc23f-6afa-4370-8a2b-553d6af12174))
     (pin "5" (uuid a595a14b-231c-433d-b106-d0c1a3516689))
+=======
+    (pin "1" (uuid b9da5775-9f53-46e3-8eaf-fb752b6dfc1c))
+    (pin "2" (uuid 15efca45-8b8b-4dd9-94ca-56987099843e))
+    (pin "6" (uuid 1af0a6ec-f034-4755-bfa7-d463e998bb9e))
+    (pin "3" (uuid 8b7e5da2-a1a4-492a-9a8a-7065a2b483de))
+    (pin "4" (uuid a40d4806-50f2-4010-b642-bde9f4b75031))
+    (pin "5" (uuid e3cc3fa7-1a8a-437c-b66b-ff096ed46f90))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5645,12 +6145,18 @@
     (property "Datasheet" "~" (at 182.88 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SA1312-BL" (at 182.88 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7ab4f803-6a03-4db1-90d6-4e4190aaad66))
     (pin "2" (uuid fbf74483-62c1-47ba-b42a-4fb2c681bcd4))
     (pin "3" (uuid 926f70a1-c383-4fd8-9278-a2335a2aee77))
+=======
+    (pin "1" (uuid 07772870-9db6-4559-a162-96fcf9eb02eb))
+    (pin "2" (uuid a58b0872-eb55-47d9-a613-5f5998316eed))
+    (pin "3" (uuid 522c8ab7-f75b-4823-9442-dbbb6fa3a7c6))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5680,6 +6186,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 154.94 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 154.94 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5689,6 +6196,17 @@
     (pin "3" (uuid f5bde3d8-ab36-4f39-8809-0ade9df51af1))
     (pin "4" (uuid d9dce08d-f32d-4c8d-916e-262c0c4e20f6))
     (pin "5" (uuid 751340b3-2aff-4c27-9954-e50482f84a3b))
+=======
+    (property "Manufacturer No." "" (at 154.94 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2453970e-5059-49b7-8c32-ae2d81c44233))
+    (pin "2" (uuid a803e0e7-2b1d-47d4-8466-173f20fb950a))
+    (pin "6" (uuid d7e43006-1838-4d1e-a3bb-a53cd0534d43))
+    (pin "3" (uuid 8b0142fc-72f9-4287-9e7c-02da9ccea896))
+    (pin "4" (uuid cce5b6e7-df2d-4a2b-b7ff-45dad10cb4dd))
+    (pin "5" (uuid 18756839-a02e-42b5-adef-e2e0cce73529))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5751,12 +6269,18 @@
     (property "Datasheet" "~" (at 121.92 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SA1312-BL" (at 121.92 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8c01e8f7-3f19-4a37-b00f-335adcda3fc4))
     (pin "2" (uuid 35f79aed-d8b1-4f87-8ac6-83cda4145c1d))
     (pin "3" (uuid d2bdd19a-b246-43b4-90e6-b0bbc4bb49d5))
+=======
+    (pin "1" (uuid 392a70a9-8681-4b27-b3b3-976736865058))
+    (pin "2" (uuid 03bc1bd3-29f4-4e41-8ae6-978f951263e7))
+    (pin "3" (uuid 648af048-816f-4e58-83f6-37cd41faa304))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -5772,7 +6296,11 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 297.18 208.28 0) (unit 1)
+<<<<<<< HEAD
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+=======
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (uuid 8ebd061d-df6a-40f2-98d8-d38994c26989)
     (property "Reference" "A1" (at 299.339 207.0679 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5813,8 +6341,13 @@
     (property "Manufacturer No." "" (at 73.66 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid d1a48691-e982-4a37-9d77-b426035a762d))
     (pin "2" (uuid 1f305941-1e85-4588-a70f-f7946d8a72d8))
+=======
+    (pin "1" (uuid cacca21a-0d05-4123-8c7c-763f47d39d28))
+    (pin "2" (uuid f9374e86-9298-416c-acaa-824d1c4c3f54))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5850,8 +6383,13 @@
     (property "Manufacturer No." "" (at 215.9 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 2a478485-3392-422c-bfb4-755217997389))
     (pin "2" (uuid 5707ad6b-85ea-4513-bb9b-6a9afe552f9d))
+=======
+    (pin "1" (uuid 5c64373a-5b63-4a50-a5d2-b8316fce52ea))
+    (pin "2" (uuid 06037470-9068-4102-bbff-daf4e86e9fd8))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5887,8 +6425,13 @@
     (property "Manufacturer No." "" (at 73.66 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid b5c97632-8347-4ab5-ab9d-29e5328276f7))
     (pin "2" (uuid a6d7c3f5-4d63-4ab7-ae27-6e9805747799))
+=======
+    (pin "1" (uuid bd1ab762-2e9e-40a9-b67e-8800c3cfdc15))
+    (pin "2" (uuid 3ef1596b-89f6-434a-ba64-3d5dabd1220f))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5924,8 +6467,13 @@
     (property "Manufacturer No." "" (at 73.66 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 6c6b7ea6-5084-4337-b97f-e7f879a5de6c))
     (pin "2" (uuid 4f7fbce5-b304-4be3-b432-3dec04a8d3fe))
+=======
+    (pin "1" (uuid f9c36973-bcbf-4129-a1ed-4ab419ab1784))
+    (pin "2" (uuid a002cf8c-c8f2-4610-9cca-d71b6327b1f6))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -5958,11 +6506,16 @@
     (property "Datasheet" "~" (at 139.7 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "EEU-FR1E680" (at 139.7 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid fbe513b3-06de-4e93-bd05-0460ebd9b84b))
     (pin "2" (uuid 97131735-3331-4638-84d4-9b7a04032963))
+=======
+    (pin "1" (uuid 2f63d40e-aed9-4cbe-b588-ac0c4fbdf288))
+    (pin "2" (uuid a719f07e-96c5-4e1d-8371-ba9c4c0daca9))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6017,11 +6570,16 @@
     (property "Datasheet" "~" (at 317.5 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "EEU-FR1E151" (at 317.5 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1347c6c4-562e-47d2-a76a-1ea4c26978fa))
     (pin "2" (uuid 0e7e9b8e-58bb-4d4e-81b8-d0666560db13))
+=======
+    (pin "1" (uuid b5d37dc1-9695-460d-beae-0857ea052101))
+    (pin "2" (uuid 9e4ae959-e84f-4474-add8-f8dfe47a1ccb))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6051,6 +6609,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 121.92 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 121.92 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6060,6 +6619,17 @@
     (pin "3" (uuid a694b191-aa86-4372-a9c9-d6b210f7cca1))
     (pin "4" (uuid 923843de-4d2e-47ea-9ca0-ca32af8710ed))
     (pin "5" (uuid c8d9205f-1a0c-4a63-a9c6-027969b0dded))
+=======
+    (property "Manufacturer No." "" (at 121.92 68.58 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6528307f-7074-4856-9e68-ea81d1affcd6))
+    (pin "2" (uuid 8f259086-c1c0-4a59-8cab-fb4d826d239c))
+    (pin "6" (uuid be1bdd49-9b9d-42b7-9e3a-ee78ace2cc60))
+    (pin "3" (uuid 6078d196-8734-4c4d-b6f2-e8306a93bed2))
+    (pin "4" (uuid 365c6d3e-b92d-439b-b5bf-9fe81ecbf904))
+    (pin "5" (uuid 61633973-48b2-442b-8632-b26a332fd070))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6095,8 +6665,13 @@
     (property "Manufacturer No." "" (at 170.18 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 01ac57d2-8004-43d3-ab08-0e79148811af))
     (pin "2" (uuid b0cf61e0-01c1-4f52-b30c-a438b6133eb0))
+=======
+    (pin "1" (uuid 48d580bc-5979-4866-b2fc-7fcb7cff9dd1))
+    (pin "2" (uuid d3ed8a96-92ea-4934-8bdc-c7b457aa0567))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6132,8 +6707,13 @@
     (property "Manufacturer No." "" (at 246.38 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid d7681b64-041f-495d-946a-b83e2bb3193f))
     (pin "2" (uuid 9100cc07-fe21-4200-a482-5ba0aa945876))
+=======
+    (pin "1" (uuid 8fe08481-d8af-4a58-9177-cb167f3d6fcf))
+    (pin "2" (uuid abc742d9-7a9a-4850-aeed-1fdbe193f4a1))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6199,8 +6779,13 @@
     (property "Manufacturer No." "" (at 124.46 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 8788ea8f-aab4-42c4-90b5-e78b9e5f40e3))
     (pin "2" (uuid d9f42840-048f-4807-9624-cac7a116b1d8))
+=======
+    (pin "1" (uuid 49d3c0af-44bb-44d6-84df-5d3a87a64c3f))
+    (pin "2" (uuid 459c2462-00da-4f4f-afd7-d2d4b6b6b281))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6218,6 +6803,7 @@
     )
   )
 
+<<<<<<< HEAD
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 281.94 175.26 0) (mirror y) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba7369e1-c413-4291-8025-1039c7e08376)
@@ -6237,6 +6823,27 @@
     (pin "2" (uuid 3adb345f-245c-4930-8feb-3715a54e7fed))
     (pin "3" (uuid 6b68acec-9643-4f1a-9824-1949266eb8de))
     (pin "4" (uuid 09f556e1-6cde-4ccf-bdcc-bf94045174f7))
+=======
+  (symbol (lib_id "Connector_Generic:Conn_01x04") (at 287.02 175.26 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid ba7369e1-c413-4291-8025-1039c7e08376)
+    (property "Reference" "J3" (at 287.02 167.3057 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "Power" (at 287.02 169.7299 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Ariamelon-Header:PinHeader_1x04_P2.54mm_Vertical_MiddleGND" (at 287.02 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 287.02 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 25cd5330-a1b0-44df-87d5-914687ed57cf))
+    (pin "2" (uuid 61bb80eb-aec7-4bc2-a102-6a13e8060377))
+    (pin "3" (uuid a570b182-286c-4586-94ce-d7becfd412e9))
+    (pin "4" (uuid 1789cb3a-abb9-4bbe-aa4c-2771e55c07b6))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/fe9fc43f-1188-4d03-8e81-9a6232eb6dc0"
@@ -6264,8 +6871,13 @@
     (property "Manufacturer No." "" (at 93.98 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 0fedbfb8-c5a6-4ba4-bd3e-811c7f701abe))
     (pin "2" (uuid bbc88ccb-d777-4eef-8633-714695cf177b))
+=======
+    (pin "1" (uuid b17f3d16-c3b4-4d5c-bb18-f564fdb0a8ed))
+    (pin "2" (uuid 26d0ab48-dc5a-4c1a-9d98-d7ea011b197b))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6298,12 +6910,18 @@
     (property "Datasheet" "~" (at 198.12 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SA1312-BL" (at 198.12 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 43dd2401-b30a-4774-9a0a-33163600a677))
     (pin "2" (uuid 9369a225-40b9-4d10-b3df-41cb539d8abb))
     (pin "3" (uuid 66333d4e-ea7d-447f-91c2-368de3a7c868))
+=======
+    (pin "1" (uuid a812b9c9-a59c-4378-91d0-25f0fa53bd35))
+    (pin "2" (uuid 6078e162-e42f-405e-ae2b-f04cb1fdeea5))
+    (pin "3" (uuid 946380e4-2c81-473c-9c03-7c736a1cf180))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6366,8 +6984,13 @@
     (property "Manufacturer No." "" (at 114.3 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid ccfdc2c4-bd0e-4aea-818a-d4d2a9ee1535))
     (pin "2" (uuid a190d4f2-68d9-407c-847e-85a5d86de3ab))
+=======
+    (pin "1" (uuid f27674ba-1380-4948-9d7b-dc9a3e6017fa))
+    (pin "2" (uuid 6b61e0b6-0d1b-46aa-9709-a81aac9fb0c0))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6400,6 +7023,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 96.52 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 96.52 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6409,6 +7033,17 @@
     (pin "3" (uuid 46a9ecba-2082-4871-a002-f20202814ccf))
     (pin "4" (uuid 77ccc3ba-80a2-442f-9e4a-e32c1913131f))
     (pin "5" (uuid c5fce079-d920-4bb6-98a1-f88b7d5edcc0))
+=======
+    (property "Manufacturer No." "" (at 96.52 68.58 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7054a5ea-511d-4970-9e15-6341a9123272))
+    (pin "2" (uuid 922ed26a-8fbc-451b-89e6-6e4b5e56ab46))
+    (pin "6" (uuid 3a59f7ba-56b4-4f0a-beae-1a672eadcbd5))
+    (pin "3" (uuid 8d2ba325-fbc6-4e4d-8b0a-7a368ec6d37c))
+    (pin "4" (uuid ebc3c473-9097-4306-a855-79f470308b1a))
+    (pin "5" (uuid c1c9e7e5-2d6f-4891-8fe3-0dc2629c6ce6))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6441,11 +7076,16 @@
     (property "Datasheet" "~" (at 337.82 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "GRT21BR71H105KE01K" (at 337.82 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1c43223f-62bf-4b89-ae10-c201706a12c5))
     (pin "2" (uuid 5f04d9e7-e879-49bd-9fd4-872ebf2937b3))
+=======
+    (pin "1" (uuid 5d16ae0a-78d2-434c-b5d9-a049063cc3c9))
+    (pin "2" (uuid 7a4c5316-ffb9-4427-b9f5-b5ab321d4230))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6475,6 +7115,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 96.52 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 96.52 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6484,6 +7125,17 @@
     (pin "3" (uuid 957118cc-9bca-4ef6-9e02-fdf125831c57))
     (pin "4" (uuid ce5f9c1a-a2cd-4b09-833d-1f00ea6211ca))
     (pin "5" (uuid 96fad8c7-5d96-4c91-8ba4-ab3ed5ec10dc))
+=======
+    (property "Manufacturer No." "" (at 96.52 83.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4815735a-9635-4e8c-9895-8ec451c02d82))
+    (pin "2" (uuid 4cea1d8f-f5ed-49f6-abff-d8f940310fc9))
+    (pin "6" (uuid 100992f6-c826-462a-a48b-d3dc61ea44d3))
+    (pin "3" (uuid 29747a81-7889-46b6-8426-23f72bfe9f09))
+    (pin "4" (uuid b98e0070-95db-4967-9641-3193458f95a4))
+    (pin "5" (uuid dce6ef2d-439b-4786-8639-76408807c27f))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6546,11 +7198,16 @@
     (property "Datasheet" "~" (at 307.34 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "EEU-FR1E151" (at 307.34 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4dad78a3-b4b6-4fcf-b577-b8886c9a76f3))
     (pin "2" (uuid b2cbfb26-586e-488f-abdb-3f93bf649814))
+=======
+    (pin "1" (uuid af02c26a-6b53-455e-8c65-dd21affbacd2))
+    (pin "2" (uuid dd6ad650-beb5-4ed0-a4e5-201d514c1cdd))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6580,12 +7237,18 @@
     (property "Datasheet" "~" (at 71.12 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SC3324-BL" (at 71.12 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c6baf8d6-8e16-408e-b3bb-973680cac646))
     (pin "2" (uuid 4cd0227c-d432-4720-8ded-4a5e861c13fc))
     (pin "3" (uuid 741feabe-df83-4e04-8673-db442f18da57))
+=======
+    (pin "1" (uuid 0316aa67-0d25-41d2-b713-56def141160d))
+    (pin "2" (uuid de828828-44a7-418f-b145-7ce676ce97f0))
+    (pin "3" (uuid f3e196ee-5ec2-4435-9648-075aea04ce36))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6615,6 +7278,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 66.04 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 66.04 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6624,6 +7288,17 @@
     (pin "3" (uuid 9c9ebb97-c7a2-468a-86e9-37fe9ba1d85e))
     (pin "4" (uuid 3241e495-7a64-4d38-87e6-ab5ce6d9c0c5))
     (pin "5" (uuid 62a1ae52-c775-40cf-bc6c-cb70c26476f1))
+=======
+    (property "Manufacturer No." "" (at 66.04 220.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 56cf3d51-de05-49e0-acaa-69933785c9ab))
+    (pin "2" (uuid 0e7ef387-2b54-48be-8d3a-63acf6174af1))
+    (pin "6" (uuid 22d9ed08-2313-4bdd-9344-80c04423e93c))
+    (pin "3" (uuid 9ee8dc5a-1f73-4ea0-ac1e-9297d9cf92fd))
+    (pin "4" (uuid 37a35425-444a-4551-a38f-0562358a9226))
+    (pin "5" (uuid a73bc20b-6178-4c84-952e-4b0771793d7d))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6656,12 +7331,18 @@
     (property "Datasheet" "~" (at 198.12 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SC3324-BL" (at 198.12 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a528688d-b998-4181-a16d-e43bb52f2223))
     (pin "2" (uuid c6d8af27-a40f-4cf6-a12e-e9b7cf765740))
     (pin "3" (uuid 105316ac-efa4-43dc-bb83-3ea648132c33))
+=======
+    (pin "1" (uuid 0876a3a6-20f5-42ae-97ac-c6c6f21b2818))
+    (pin "2" (uuid d1d114eb-1cfa-42cd-9c9c-0c993fae5497))
+    (pin "3" (uuid 2e8ee456-6033-4b77-9328-a3ad56179434))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6691,11 +7372,16 @@
     (property "Datasheet" "~" (at 154.94 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "EEU-FR1E680" (at 154.94 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a4c8acf0-d8c4-4e69-b0c9-bfe5a3b22c20))
     (pin "2" (uuid 18e024c9-6538-4961-b7bf-557aed0b8c5a))
+=======
+    (pin "1" (uuid a380ba77-1768-4977-960c-047e65c42fae))
+    (pin "2" (uuid def55e2c-820a-4ff9-9c7f-30efe433c80e))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6725,11 +7411,16 @@
     (property "Datasheet" "~" (at 114.3 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "08052U470FAT2A" (at 114.3 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 28410698-f0e2-443b-9ae9-07e5976c5bd2))
     (pin "2" (uuid b1887c4a-2724-4401-be68-d1335d87427e))
+=======
+    (pin "1" (uuid fdce503c-9448-438f-a3f4-820c987b004d))
+    (pin "2" (uuid 4074436c-8c07-4916-9166-26cd5d1c8ae3))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6759,6 +7450,7 @@
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm741.pdf" (at 331.47 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 81bc5d98-78b9-4aaa-a6ff-56a18f69aeac))
     (pin "2" (uuid 23384553-6e33-4ef7-a54f-cda50f4322a5))
     (pin "3" (uuid 5457e803-97a2-4f15-b79f-8e15482c8d0f))
@@ -6767,6 +7459,16 @@
     (pin "6" (uuid 65f378bd-1ee7-4cf3-967b-b7868888aab0))
     (pin "7" (uuid d87924e4-8d6a-4b09-bcb7-706bd99b01a2))
     (pin "8" (uuid acb6d048-56ea-4dda-8840-6a955d3579c7))
+=======
+    (pin "1" (uuid 12ca0c6c-10f5-47cb-8b7c-c2148bff829d))
+    (pin "2" (uuid d2b312f7-5115-480c-b710-5cc2f1450ecb))
+    (pin "3" (uuid 073622e3-b27f-4296-a442-ef88d5956abb))
+    (pin "4" (uuid aa840079-e5c8-45ae-9124-bafa67679b51))
+    (pin "5" (uuid e11a481f-18fd-45f2-987f-be330adda27f))
+    (pin "6" (uuid 93d635ac-48ca-4c6b-932d-a4b9174bd4c0))
+    (pin "7" (uuid a7ab1711-0a73-4951-9d05-f95382937043))
+    (pin "8" (uuid 0c8d231d-b0b8-4802-87d1-4e68392bde23))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6799,8 +7501,13 @@
     (property "Manufacturer No." "" (at 312.42 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 30b0f7c0-18be-4ca4-9546-d57520579409))
     (pin "2" (uuid a19415cc-754c-4535-88d8-10a5f7b4e1af))
+=======
+    (pin "1" (uuid c7fa2bc2-43f8-4049-9c0e-70f6abae7ed7))
+    (pin "2" (uuid 3fc0fb1b-6891-4401-8b71-027145dc8bc9))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6833,12 +7540,18 @@
     (property "Datasheet" "~" (at 121.92 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SC3324-BL" (at 121.92 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 32e12dbe-71ba-465c-a8fc-fcc056a6bc8f))
     (pin "2" (uuid 9b21ee7a-8ec5-49cc-89be-a34645576e8e))
     (pin "3" (uuid 86ad00a2-cea9-426e-852c-62a764c34836))
+=======
+    (pin "1" (uuid 145d1edb-3247-4b29-8f69-feb7cd489970))
+    (pin "2" (uuid bb90e761-50ff-422f-bfcc-7c189dfd0676))
+    (pin "3" (uuid 82ba7833-44b6-4a1e-a6e4-53533b664df3))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6868,6 +7581,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC857BS.pdf" (at 71.12 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP5201Y" (at 71.12 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6877,6 +7591,17 @@
     (pin "3" (uuid bb10b270-f04a-4304-adb7-71780941cbf6))
     (pin "4" (uuid c588ae76-e3e1-4ca1-a608-5f39fb59382d))
     (pin "5" (uuid 5755fd29-d4ba-4cd2-8719-c9314d2b3224))
+=======
+    (property "Manufacturer No." "" (at 71.12 73.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bceec90f-ba94-43b9-bda2-a393f8cda5e3))
+    (pin "2" (uuid 53a92e77-a741-4bfe-b23e-79ac4b2fbbd3))
+    (pin "6" (uuid b5ab8320-6b1a-4dcc-bb1d-39d30f1461ad))
+    (pin "3" (uuid 43dd1a3e-cf51-472b-9e05-90a8406ded3f))
+    (pin "4" (uuid ad119143-b6a2-4d07-b41b-f7fd303ccce5))
+    (pin "5" (uuid 3e1cc20e-fea1-4779-8f6e-96e2feb1c194))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -6934,11 +7659,16 @@
     (property "Datasheet" "~" (at 317.5 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "GRT21BR71H105KE01K" (at 317.5 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 54adefcf-22cd-4990-8862-9f975cef9beb))
     (pin "2" (uuid 9d7ff2ea-a8ec-4ae6-9a7d-4f6d7d27093c))
+=======
+    (pin "1" (uuid 191a29f0-b402-4b8b-8d38-7a5b2ebd1509))
+    (pin "2" (uuid 55c1a39e-6781-4b56-b255-e760acd0203a))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -6998,11 +7728,22 @@
     (property "Datasheet" "~" (at 231.14 147.32 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "MMSD4148T3G" (at 231.14 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dbe601c6-0282-4809-b5ef-af66f6fcf196))
     (pin "2" (uuid 9c7ba295-2578-427b-8938-4f3dd1936011))
+=======
+    (property "Sim.Device" "D" (at 231.14 147.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=K 2=A" (at 231.14 147.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e5be7cc0-82d0-4594-a3f3-bc10a4fe6faf))
+    (pin "2" (uuid 7eb0182c-ff13-4c79-9430-0c6c3b2d45e2))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -7035,8 +7776,13 @@
     (property "Manufacturer No." "" (at 63.5 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid cde8b5f4-37e7-453d-b9ff-27bffe264889))
     (pin "2" (uuid 3cd3bcbd-d843-4c33-a6d8-4c3c3655aa8f))
+=======
+    (pin "1" (uuid bccacc3d-b498-412f-a781-3c53d495fc8f))
+    (pin "2" (uuid 4095c8dc-a5b2-4896-8725-7e20ec471211))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -7069,6 +7815,7 @@
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC847BS.pdf" (at 71.12 210.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "PMP4201Y" (at 71.12 210.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7078,6 +7825,17 @@
     (pin "3" (uuid 4f7e33ad-1c04-4ae4-af92-0dc201286cc6))
     (pin "4" (uuid db78d15a-141f-4272-bf4c-719cfa047e9e))
     (pin "5" (uuid c7bd150f-bb38-43f2-acb2-3f7e73e2df32))
+=======
+    (property "Manufacturer No." "" (at 71.12 210.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e9e070c1-c92c-4c9e-8e2e-45512761c96f))
+    (pin "2" (uuid 57573134-9152-4dbb-85b1-ef7e7cc731a4))
+    (pin "6" (uuid 66942d47-cf3e-42c9-bfa8-554118e01c9a))
+    (pin "3" (uuid b4536f3b-a679-47c6-a514-cde18b00c0c8))
+    (pin "4" (uuid 5a429438-254d-4002-a76d-643b97780a74))
+    (pin "5" (uuid d99766fa-2173-426a-8795-3d5b4b2a663f))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -7113,8 +7871,13 @@
     (property "Manufacturer No." "" (at 93.98 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 63ab306c-5cb3-41b9-be68-e7b4f81019b5))
     (pin "2" (uuid 1cd8e1f4-e039-4e53-990e-3aa7ca3ff7dc))
+=======
+    (pin "1" (uuid 5badfc05-0b5e-4a22-808e-286a0bfe8745))
+    (pin "2" (uuid 5bbf217c-3df7-4435-ba8a-2c6ac165183f))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -7147,12 +7910,18 @@
     (property "Datasheet" "~" (at 91.44 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SA1312-BL" (at 91.44 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5b68c22e-7c49-4c4b-a962-4d3a253d3e80))
     (pin "2" (uuid 99c015cb-39ec-4b22-bc3b-8220a34efdcd))
     (pin "3" (uuid 8e7bff97-f071-4f8d-8152-5b736e037beb))
+=======
+    (pin "1" (uuid af9af5f3-2a9a-48be-bdb9-12a0858b41c4))
+    (pin "2" (uuid 5f7e8920-5f7a-435f-b8a5-b979228ab5d3))
+    (pin "3" (uuid cf496721-05e4-42e4-b95c-8d47571e10e5))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -7185,8 +7954,13 @@
     (property "Manufacturer No." "" (at 93.98 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid fa19e112-94b1-4442-a9d3-f1ef28249de9))
     (pin "2" (uuid 3ab1213f-bbe6-4099-af72-9c7c06b00fed))
+=======
+    (pin "1" (uuid c6d5f241-f0e3-47be-83aa-7037a3e28f27))
+    (pin "2" (uuid 309eba0f-d227-4325-a0a7-035947611610))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -7252,8 +8026,13 @@
     (property "Manufacturer No." "" (at 185.42 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid 8ec994f0-0b40-45b0-8a96-0d5346ba6c74))
     (pin "2" (uuid 8217b568-c659-44d7-bdea-f2ab944b6463))
+=======
+    (pin "1" (uuid 3e02e0ed-4ccf-4f25-9dd1-7f6c9178fbde))
+    (pin "2" (uuid 8f64edb8-be3d-472f-9742-5fa5efd2f403))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277"
@@ -7302,7 +8081,11 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 350.52 182.88 0) (unit 1)
+<<<<<<< HEAD
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+=======
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (uuid edca50cc-b66b-4ba5-b7a7-57bd90859d77)
     (property "Reference" "H2" (at 353.06 181.6679 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7340,12 +8123,18 @@
     (property "Datasheet" "~" (at 137.16 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "2SA1312-BL" (at 137.16 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bffef812-8a00-4cf3-b98f-b46f416c0c1f))
     (pin "2" (uuid dbbcbc09-defc-40e6-9949-c7d414ae94a8))
     (pin "3" (uuid 3685d89c-5d1a-41dd-9c4f-e7841590d4cf))
+=======
+    (pin "1" (uuid 3edfee4a-36b0-4c04-934a-511e9e6e6b26))
+    (pin "2" (uuid cc3fe211-d48a-4984-b3cd-755a36263283))
+    (pin "3" (uuid f1db5bb6-19a5-4a53-87b8-ffd0295264f7))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -7361,7 +8150,11 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 350.52 187.96 0) (unit 1)
+<<<<<<< HEAD
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+=======
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (uuid f32c4413-4951-489b-ae0f-b5000746f367)
     (property "Reference" "H3" (at 353.06 186.7479 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7415,7 +8208,11 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 259.08 144.78 0) (mirror x) (unit 1)
+<<<<<<< HEAD
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+=======
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (uuid f3b5dc3d-753f-4a03-bbfb-c31a7f4c3cdc)
     (property "Reference" "J2" (at 259.08 136.8257 0)
       (effects (font (size 1.27 1.27)))
@@ -7429,8 +8226,13 @@
     (property "Datasheet" "~" (at 259.08 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (pin "1" (uuid a46b1d1e-37a6-4910-81bc-833b5df52ab7))
     (pin "2" (uuid dfc3bdd0-3a64-4ad1-a242-2135cc4e6d92))
+=======
+    (pin "1" (uuid 148865b4-22c2-4ec8-95e3-60299ff1355b))
+    (pin "2" (uuid 0dc7267d-c8e9-43b4-a947-4dc913ce2371))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/fe9fc43f-1188-4d03-8e81-9a6232eb6dc0"
@@ -7455,11 +8257,16 @@
     (property "Datasheet" "~" (at 114.3 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "08052U470FAT2A" (at 114.3 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid adfed3ec-00e3-4503-a812-6c99785b8b81))
     (pin "2" (uuid cf57eee7-195a-435d-aa55-c46738a58b52))
+=======
+    (pin "1" (uuid 51ac0161-531d-4a04-9557-5d8c8e352c83))
+    (pin "2" (uuid 01d9c9c6-4ac1-4e3a-9f3d-b9a17900621a))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -7489,11 +8296,16 @@
     (property "Datasheet" "~" (at 119.38 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "08052U101FAT2A" (at 119.38 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 53fc7ae9-582e-4596-b474-e90009a4cadf))
     (pin "2" (uuid 366788a4-b707-4f45-9435-0f43948f7753))
+=======
+    (pin "1" (uuid 52ed9355-5809-47c8-880f-fe5a66f8d7d0))
+    (pin "2" (uuid 7d7a4fdd-c31f-4585-af13-7db03d91f185))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -7522,6 +8334,7 @@
     )
     (property "Datasheet" "~" (at 91.44 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
+<<<<<<< HEAD
     )
     (property "Manufacturer No." "2SC3324-BL" (at 91.44 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -7529,6 +8342,12 @@
     (pin "1" (uuid 3cdb74da-6eb3-4f6a-8f1a-6b0d260b5b52))
     (pin "2" (uuid 2e31e886-161a-4037-9f49-302ac5fb5f2a))
     (pin "3" (uuid 27ea7636-1fab-40df-8b72-f85db2b9184c))
+=======
+    )
+    (pin "1" (uuid edabda62-0812-4a1b-a3bd-683e95914350))
+    (pin "2" (uuid a1148fc5-9eeb-4079-b9c6-1be459fa8f8e))
+    (pin "3" (uuid 1cf3aa73-dd61-4dae-9631-0438b9abba82))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
@@ -7558,11 +8377,16 @@
     (property "Datasheet" "~" (at 317.5 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+<<<<<<< HEAD
     (property "Manufacturer No." "EEU-FR1E151" (at 317.5 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d82c9832-6614-4800-b5e7-176c24a7e001))
     (pin "2" (uuid c8a04732-0f09-4b77-b25a-c2177d26f395))
+=======
+    (pin "1" (uuid 193ffbee-e310-45ee-971f-547323c400b0))
+    (pin "2" (uuid c33c09ba-0508-472f-8ed8-d54aee1f5a59))
+>>>>>>> 4c937a2029973a6550634f80e929112e541c38bd
     (instances
       (project "Mirza"
         (path "/b81e3499-d427-4525-b6d1-61999d7d8277/1cf66be8-6799-46ae-9097-64a842a2bb9d"
