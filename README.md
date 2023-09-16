@@ -8,4 +8,5 @@ This amplifier is licensed under CC BY 4.0.
 ![Board Render Back](Showcase/Board-Render-B.png)
 
 ## Changelog
+* 17/09/2023: Repositioning of parts. Added interactive BOM. Changed some values. Removed PTC fuses. Lengthened board to add JST XH connectors.
 * 16/09/2023: Initial public upload.
