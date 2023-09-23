@@ -8,6 +8,7 @@ This amplifier is licensed under CC BY 4.0.
 ![Board Render Back](Showcase/Board-Render-B.png)
 
 ## Changelog
+* 23/09/2023: Changed all dual transistors to BCM847DS/BCM857DS.
 * 22/09/2023: Changed power connector to phoenix terminal block.
 * 20/09/2023: Shortened board by removing one pair of capacitors and increasing the size of the other and reducing the number of emitter resistors.
 * 18/09/2023: Changed power header to JST XH 6-pin.
