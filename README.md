@@ -8,6 +8,7 @@ This amplifier is licensed under CC BY 4.0.
 ![Board Render Back](Showcase/Board-Render-B.png)
 
 ## Changelog
+* 05/10/2023: Changed input voltage to 15V.
 * 28/09/2023: Changed size of emitter resistors to MELF0207 for better heat dissipation.
 * 24/09/2023: Increased thickness of power traces. Updated footprints for SOT-23-3 and SOT-23-6 footprints.
 * 23/09/2023: Changed all dual transistors to BCM847DS/BCM857DS for easier soldering.
